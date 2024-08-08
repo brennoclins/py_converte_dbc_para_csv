@@ -1,0 +1,4 @@
+# modelo para o arquivo .env
+
+DBC_FILE=
+CSV_FILE=
